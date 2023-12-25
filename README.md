@@ -34,6 +34,7 @@ In the pursuit of solving COVID-19 classification, the paper challenges the stat
 | DenseNet-201 | 20              |
 | MobileNetV2  | 3.4             |
 | Swish Model  | 6.2             |
+
 **Table 1:** Comparison of model sizes.
 
 
