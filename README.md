@@ -77,9 +77,9 @@ In challenging the dominance of pre-trained models, this exploration champions a
 
 * Classical ML Synergy: The integration with classical machine learning, especially SVM, proves pivotal, offering superior accuracy in classification tasks. 
 
-Adaptive Problem-Solving: In datasets deviating from conventional norms, the proposed strategy emerges as a beacon for adaptive problem-solving, challenging the traditional reliance on pre-trained models. 
+* Adaptive Problem-Solving: In datasets deviating from conventional norms, the proposed strategy emerges as a beacon for adaptive problem-solving, challenging the traditional reliance on pre-trained models. 
 
-Charting a New Course: This journey signifies a departure from conventional thinking, advocating for creativity, adaptability, and nuanced dataset understanding. The marriage of feature extraction and classical machine learning charts a course toward precision and accuracy in computer vision problem-solving. 
+* Charting a New Course: This journey signifies a departure from conventional thinking, advocating for creativity, adaptability, and nuanced dataset understanding. The marriage of feature extraction and classical machine learning charts a course toward precision and accuracy in computer vision problem-solving. 
 
 In summary, the amalgamation of SIFT, purpose-built models, and classical machine learning heralds a transformative era in reshaping the computer vision landscape, urging us to venture into uncharted territories for innovative and precise solutions. 
 
