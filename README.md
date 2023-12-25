@@ -23,7 +23,7 @@ In the pursuit of solving COVID-19 classification, the paper challenges the stat
 ![Figure 1: The proposed compact CNN model designed for Image features extraction](swish.PNG)
 **Figure 1:** The proposed compact CNN model designed for Image features extraction
 
-### Model Parameters: 
+## Model Parameters: 
 
 | Model        | Parameters (M) |
 |--------------| --------------- |
